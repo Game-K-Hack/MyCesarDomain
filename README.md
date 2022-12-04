@@ -23,7 +23,8 @@
 
 <p align="center">
   <a href="#description-fr">FR</a> •
-  <a href="#description-en">EN</a>
+  <a href="#description-en">EN</a> •
+  <a href="#Link">Link</a>
 </p>
 
 <br>
@@ -56,3 +57,11 @@ This extension makes it possible to encode the domain name of the current site, 
 *Screenshot of the extension one that the user clicked on its icon*
 
 Here is the result of the clipboard with the url of the screenshots above *(`https://www.google.com`)*: **`saasxq`**
+
+<br>
+<br>
+<br>
+
+## Link
+
+**Mozilla Addons:** https://addons.mozilla.org/fr/firefox/addon/mycesardomain
