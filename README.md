@@ -22,14 +22,14 @@
 <h4 align="center">Domain to Caesar code</h4>
 
 <p align="center">
-  <a href="#description_fr">FR</a> •
-  <a href="#description_en">EN</a>
+  <a href="#description-fr">FR</a> •
+  <a href="#description-en">EN</a>
 </p>
 
 <br>
 <br>
 
-## Description_FR
+## Description FR
 
 Cette extension permet d'encoder le nom de domaine du site actuel, en clé de césar avec un décalage de 12 lettres. Il suffit de cliquer sur l'icon de l'extension pour qu'elle récupère le nom de domaine, qu'elle l'encode et que le résultat soit écrie dans le presse-papier *(que ce dernier soit copié)*.
 
@@ -45,7 +45,7 @@ Voici le résultat du presse-papier avec l'url des captures d'écran ci-dessus *
 <br>
 <br>
 
-## Description_EN
+## Description EN
 
 This extension makes it possible to encode the domain name of the current site, in Caesar's key with an offset of 12 letters. Just click on the icon of the extension so that it retrieves the domain name, encodes it and writes the result to the clipboard *(the latter is copied)*.
 
