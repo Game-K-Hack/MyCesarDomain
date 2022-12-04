@@ -11,7 +11,7 @@
   <a href="#">
     <img src="https://img.shields.io/static/v1?label=version&message=stable&color=green" alt="Version - Stable" />
   </a>
-  <a href="https://choosealicense.com/licenses/mpl">
+  <a href="https://choosealicense.com/licenses/mpl-2.0">
     <img src="https://img.shields.io/badge/License-MPL-yellow" alt="License" />
   </a>
   <a href="https://www.paypal.com/paypalme/gamekdonate">
