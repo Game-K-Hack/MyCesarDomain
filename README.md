@@ -22,15 +22,18 @@
 <h4 align="center">Domain to Caesar code</h4>
 
 <p align="center">
-  <a href="#description-fr">FR</a> •
-  <a href="#description-en">EN</a> •
-  <a href="#Link">Link</a>
+  <a href="#description-fr">Description 🇫🇷</a> •
+  <a href="#description-en">Description 🇬🇧</a>
+</p>
+
+<p align="center">
+  <a href="#Link">Install</a>
 </p>
 
 <br>
 <br>
 
-## Description FR
+## Description 🇫🇷
 
 Cette extension permet d'encoder le nom de domaine du site actuel, en clé de césar avec un décalage de 12 lettres. Il suffit de cliquer sur l'icon de l'extension pour qu'elle récupère le nom de domaine, qu'elle l'encode et que le résultat soit écrie dans le presse-papier *(que ce dernier soit copié)*.
 
@@ -46,7 +49,7 @@ Voici le résultat du presse-papier avec l'url des captures d'écran ci-dessus *
 <br>
 <br>
 
-## Description EN
+## Description 🇬🇧
 
 This extension makes it possible to encode the domain name of the current site, in Caesar's key with an offset of 12 letters. Just click on the icon of the extension so that it retrieves the domain name, encodes it and writes the result to the clipboard *(the latter is copied)*.
 
@@ -62,6 +65,6 @@ Here is the result of the clipboard with the url of the screenshots above *(`htt
 <br>
 <br>
 
-## Link
+## Install
 
 **Mozilla Addons:** https://addons.mozilla.org/fr/firefox/addon/mycesardomain
