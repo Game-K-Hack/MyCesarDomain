@@ -27,7 +27,7 @@
 </p>
 
 <p align="center">
-  <a href="#Link">Install</a>
+  <a href="#Install">Install</a>
 </p>
 
 <br>
