@@ -22,8 +22,8 @@
 <h4 align="center">Domain to Caesar code</h4>
 
 <p align="center">
-  <a href="#description-fr">Description 🇫🇷</a> •
-  <a href="#description-en">Description 🇬🇧</a>
+  <a href="#Description-🇫🇷">Description 🇫🇷</a> •
+  <a href="#Description-🇬🇧">Description 🇬🇧</a>
 </p>
 
 <p align="center">
