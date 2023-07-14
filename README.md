@@ -5,6 +5,9 @@
 <br>
 
 <div align="center">
+
+  ![Opera](https://img.shields.io/badge/Opera-FF1B2D?style=for-the-badge&logo=Opera&logoColor=white)
+
   <a href="#">
     <img src="https://img.shields.io/static/v1?label=release&message=v1.0&color=blue" alt="Release - v1.2" />
   </a>
@@ -60,11 +63,3 @@ This extension makes it possible to encode the domain name of the current site, 
 *Screenshot of the extension one that the user clicked on its icon*
 
 Here is the result of the clipboard with the url of the screenshots above *(`https://www.google.com`)*: **`saasxq`**
-
-<br>
-<br>
-<br>
-
-## Install
-
-**Mozilla Addons:** https://addons.mozilla.org/fr/firefox/addon/mycesardomain
