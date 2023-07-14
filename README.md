@@ -6,7 +6,11 @@
 
 <div align="center">
 
-  ![Opera](https://img.shields.io/badge/Opera-FF1B2D?style=for-the-badge&logo=Opera&logoColor=white)
+  <a href="#">
+    <img src="https://img.shields.io/badge/Opera-FF1B2D?style=for-the-badge&logo=Opera&logoColor=white" alt="Opera" />
+  </a>
+
+  <br>
 
   <a href="#">
     <img src="https://img.shields.io/static/v1?label=release&message=v1.0&color=blue" alt="Release - v1.2" />
