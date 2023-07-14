@@ -29,10 +29,6 @@
   <a href="#description-en">Description 🇬🇧</a>
 </p>
 
-<p align="center">
-  <a href="#install">Install</a>
-</p>
-
 <br>
 <br>
 
